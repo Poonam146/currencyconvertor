@@ -1,3 +1,27 @@
+# Currency Converter
+
+A simple, responsive currency converter built with **React**, **Vite**, and **Tailwind CSS**.
+
+## Features
+
+- Convert between multiple currencies using live exchange rates
+- Swap currencies with a single click
+- Clean, modern UI with Tailwind CSS
+- Fast development experience powered by Vite
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+```sh
+npm install
+```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
